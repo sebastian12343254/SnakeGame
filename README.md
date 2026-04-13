@@ -57,6 +57,6 @@ App.java: Inicializa la ventana principal y arranca el hilo del juego.
 SnakeGame.java: Contiene el motor del juego, la lógica de renderizado (paintComponent) y el manejo de eventos de teclado.
 
 ## Guía de Inicio
-Clonar: git clone https://github.com/sebastian12343254/MarioGame
+Clonar: git clone https://github.com/sebastian12343254/SnakeGame
 
 Compilar en tu editor favorito
